@@ -1,0 +1,43 @@
+html
+{
+  scrollbar-width: thin;
+}
+*
+{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+#indianmap
+{
+  position:relative;
+  overflow:hidden;
+}
+#indianmap>svg
+{
+  max-height:100vh;
+  width:100%;
+  margin:auto;
+}
+svg path
+{
+  cursor:grabbing;
+  transition:scale 0.2s ease-in-out;
+}
+.infodiv
+{
+  padding:20px;
+  position:absolute;
+  width:fit-content;
+  height:fit-content;
+  bottom:0;
+  right:0;
+  border:2px solid black;
+  transform:translatex(100%);
+  transition:transform 0.5s ease-in-out;
+}
+.infodiv h1
+{
+  text-transform: capitalize;
+}
+

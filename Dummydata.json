@@ -1,0 +1,127 @@
+{
+  "Andhra Pradesh": {
+    "capital": "Amaravati",
+    "population": 49577103,
+    "longitude": 79.9661,
+    "latitude": 16.5075
+  },
+  "Arunachal Pradesh": {
+    "capital": "Itanagar",
+    "population": 1383727,
+    "longitude": 93.6239,
+    "latitude": 27.0968
+  },
+  "Assam": {
+    "capital": "Dispur",
+    "population": 35607039,
+    "longitude": 91.7362,
+    "latitude": 26.1445
+  },
+  "Bihar": {
+    "capital": "Patna",
+    "population": 124799926,
+    "longitude": 85.1376,
+    "latitude": 25.5941
+  },
+  "Chhattisgarh": {
+    "capital": "Raipur",
+    "population": 29436231,
+    "longitude": 81.6296,
+    "latitude": 21.2514
+  },
+  "Goa": {
+    "capital": "Panaji",
+    "population": 1542753,
+    "longitude": 73.8282,
+    "latitude": 15.4909
+  },
+  "Gujarat": {
+    "capital": "Gandhinagar",
+    "population": 63872399,
+    "longitude": 72.6369,
+    "latitude": 23.2156
+  },
+  "Haryana": {
+    "capital": "Chandigarh",
+    "population": 28204692,
+    "longitude": 76.7794,
+    "latitude": 30.7333
+  },
+  "Himachal Pradesh": {
+    "capital": "Shimla",
+    "population": 7451955,
+    "longitude": 77.1734,
+    "latitude": 31.1048
+  },
+  "Jharkhand": {
+    "capital": "Ranchi",
+    "population": 38593948,
+    "longitude": 85.3096,
+    "latitude": 23.3441
+  },
+  "Karnataka": {
+    "capital": "Bengaluru",
+    "population": 67562686,
+    "longitude": 77.5946,
+    "latitude": 12.9716
+  },
+  "Kerala": {
+    "capital": "Thiruvananthapuram",
+    "population": 35699443,
+    "longitude": 76.9366,
+    "latitude": 8.5241
+  },
+  "Madhya Pradesh": {
+    "capital": "Bhopal",
+    "population": 85358965,
+    "longitude": 77.4126,
+    "latitude": 23.2599
+  },
+  "Maharashtra": {
+    "capital": "Mumbai",
+    "population": 123144223,
+    "longitude": 72.8777,
+    "latitude": 19.0760
+  },
+  "Manipur": {
+    "capital": "Imphal",
+    "population": 3091545,
+    "longitude": 93.9368,
+    "latitude": 24.8170
+  },
+  "Meghalaya": {
+    "capital": "Shillong",
+    "population": 3366710,
+    "longitude": 91.8822,
+    "latitude": 25.5788
+  },
+  "Mizoram": {
+    "capital": "Aizawl",
+    "population": 1239244,
+    "longitude": 92.7176,
+    "latitude": 23.7271
+  },
+  "Nagaland": {
+    "capital": "Kohima",
+    "population": 2249695,
+    "longitude": 94.1053,
+    "latitude": 25.6751
+  },
+  "Odisha": {
+    "capital": "Bhubaneswar",
+    "population": 46356334,
+    "longitude": 85.8245,
+    "latitude": 20.2961
+  },
+  "Punjab": {
+    "capital": "Chandigarh",
+    "population": 30141373,
+    "longitude": 76.7794,
+    "latitude": 30.7333
+  },
+  "Rajasthan": {
+    "capital": "Jaipur",
+    "population": 81032689,
+    "longitude": 75.7873,
+    "latitude": 26.9124
+  }}
